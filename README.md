@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#31A621; font-weight:bold;">Hi 👋, I'm Govini</h1>
-<h3 align="center" style="color:#77D585;">A passionate software developer from Sri Lanka</h3>
+<h3 align="center" style="color:#77D585;">A passionate Software Engineering undergraduate from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="Coding" width="400">
