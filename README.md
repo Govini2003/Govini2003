@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 What I Do  
-- 🌱 Currently diving deep into **Flutter** for mobile app development  
+- 🌱 Currently working on a clothing brand website
 - ⚡ **Fun Fact:** I’m obsessed with the color blue 💙 — If I ever build a website, you’ll feel like you’ve just surfed the ocean 🌊 while reading my code! 💻  
 
 ---
