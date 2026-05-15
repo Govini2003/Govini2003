@@ -72,11 +72,6 @@ A veterinary marketplace platform designed for Sri Lanka.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=govini2003&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govini2003&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govini2003&theme=github-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
