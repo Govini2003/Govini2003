@@ -13,7 +13,7 @@
 ---
 ### 🚀 What I Do  
 - 🌱 Currently working as an intern Software Engineer at Alphageekx.
-- ⚡ **Fun Fact:** I’m obsessed with the color blue 💙 — If I ever build a website, you’ll feel like you’ve just surfed the ocean 🌊 while reading my code! 💻  
+- ⚡ **Fun Fact:** I’m obsessed with blue 💙 — If I ever build a website, you’ll feel like you’ve just surfed the ocean 🌊 while reading my code! 💻  
 
 ---
 
