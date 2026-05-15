@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Govini 👋</h1>
 
 <p align="center">
@@ -98,4 +97,3 @@ A veterinary marketplace platform designed for Sri Lanka.
 <p align="center">
   Thanks for visiting my profile!
 </p>
-```
