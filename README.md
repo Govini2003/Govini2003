@@ -85,8 +85,6 @@ const govini = {
 <br/><br/>
 </div>
 
-<br/>
-
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect
 
