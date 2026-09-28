@@ -1,85 +1,172 @@
-<h1 align="center">Hi, I'm Govini 👋</h1>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  Software Engineering Undergraduate <br/>
-  Frontend & Full-Stack Developer
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Govini%20Rajapakse&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/govini-rajapakse">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/govini2003">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+clean+%26+responsive+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+Spring+Boot+%F0%9F%92%BB;Turning+ideas+into+polished+interfaces+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=govini2003&label=Profile%20Views&color=111111&style=flat-square" />
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/govini-rajapakse">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/govini2003">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## About Me
+<br/><br/>
 
-- 🎓 Software Engineering undergraduate at the IIT campus of the University of Westminster  
-- 💼 Software Engineering Intern at **Alphageekx**
-- 🌱 Interested in frontend engineering, full-stack development, and UI/UX
-- 🚀 Passionate about building clean and responsive web applications
-- 💻 Enjoy working with modern JavaScript technologies and creative interfaces
+<img src="https://komarev.com/ghpvc/?username=govini2003&label=Profile%20Views&color=7c3aed&style=flat-square" />
+<img src="https://img.shields.io/github/followers/govini2003?label=Followers&style=flat-square&color=7c3aed&logo=github" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-22c55e?style=flat-square" />
 
----
+</div>
 
-## Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38" height="38" alt="Tailwind CSS"/>
-</p>
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
 
----
+```js
+const govini = {
+  role: "Software Engineering Undergraduate",
+  university: "IIT (University of Westminster)",
+  currently: "Software Engineering Intern @ Alphageekx",
+  focus: ["Frontend Engineering", "Full-Stack Development", "UI/UX"],
+  loves: ["Clean code", "Responsive design", "Creative interfaces"],
+  funFact: "I turn coffee into components ☕ → ⚛️",
+};
+```
 
-## Featured Projects
+<br/>
 
-### Cool Cal
-A multifunctional calculator web application with converters and physics/mathematics tools.
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-### AquaMart
-A group project focused on water distribution and donation support for water-scarce communities.
+<div align="center">
 
-### Veta.lk
-A veterinary marketplace platform designed for Sri Lanka.
+**Languages & Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" />
 
-## Achievements
+**Backend & Databases**
 
-- HackerRank Certified Frontend Developer (React)
-- Participated in IEEE and university hackathons
-- Built multiple academic and personal full-stack projects
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mysql,mongodb&theme=dark" />
 
----
+**Tools & Platforms**
 
-## GitHub Stats
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,idea&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govini2003&theme=github-dark&hide_border=true" width="48%" />
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <i>Building clean and meaningful digital experiences.</i>
-</p>
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧮 Cool Cal</h3>
+      <p>A multifunctional calculator web app with unit converters and physics &amp; mathematics tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💧 AquaMart</h3>
+      <p>Group project supporting water distribution and donations for water-scarce communities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full--Stack-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/Team%20Project-0ea5e9?style=flat-square" />
+      </p>
+      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🐾 Veta.lk</h3>
+      <p>A veterinary marketplace platform designed for Sri Lanka, connecting pet owners with vets and services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Marketplace-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20App-f97316?style=flat-square" />
+      </p>
+      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
+    </td>
+  </tr>
+</table>
+
+> 💡 Tip: replace each `View Repo` link with the direct repo URL, and add a live demo link if you have one.
+
+<br/>
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements
+
+- 🥇 **HackerRank Certified** Frontend Developer (React)
+- ⚡ Participated in **IEEE** and university **hackathons**
+- 🧱 Built multiple academic and personal **full-stack** projects
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govini2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=govini2003&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=govini2003&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ===================== CONTRIBUTION SNAKE (optional) ===================== -->
+<!--
+  OPTIONAL: animated contribution snake.
+  1. Create .github/workflows/snake.yml in your govini2003/govini2003 repo (see chat notes).
+  2. After it runs once, uncomment the block below.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/govini2003/govini2003/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/govini2003/govini2003/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+-->
+
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's Connect
+
+I'm always open to interesting projects, internships, and collaborations. Feel free to reach out!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/govini-rajapakse"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Send%20me-An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<br/>
+
+<i>"Building clean and meaningful digital experiences."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
