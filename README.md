@@ -69,33 +69,17 @@ const govini = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govini2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=govini2003&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=govini2003&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
 
 </div>
 
 <br/>
-
-<!-- ===================== CONTRIBUTION SNAKE (optional) ===================== -->
-
-  OPTIONAL: animated contribution snake.
-  1. Create .github/workflows/snake.yml in your govini2003/govini2003 repo (see chat notes).
-  2. After it runs once, uncomment the block below.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/govini2003/govini2003/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/govini2003/govini2003/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect
