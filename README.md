@@ -78,7 +78,7 @@ const govini = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govini2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 <br/>
