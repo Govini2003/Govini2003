@@ -85,7 +85,7 @@ const govini = {
 <br/>
 
 <!-- ===================== CONTRIBUTION SNAKE (optional) ===================== -->
-<!--
+
   OPTIONAL: animated contribution snake.
   1. Create .github/workflows/snake.yml in your govini2003/govini2003 repo (see chat notes).
   2. After it runs once, uncomment the block below.
@@ -96,7 +96,6 @@ const govini = {
     <img alt="snake" src="https://raw.githubusercontent.com/govini2003/govini2003/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
--->
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect
