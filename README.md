@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Govini%20Rajapakse&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+clean+%26+responsive+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+Spring+Boot+%F0%9F%92%BB;Turning+ideas+into+polished+interfaces+%E2%9C%A8" alt="Typing SVG" />
 </a>
@@ -63,6 +61,45 @@ const govini = {
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode,idea&theme=dark" />
 
 </div>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧮 Cool Cal</h3>
+      <p>A multifunctional calculator web app with unit converters and physics &amp; mathematics tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💧 AquaMart</h3>
+      <p>Group project supporting water distribution and donations for water-scarce communities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full--Stack-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/Team%20Project-0ea5e9?style=flat-square" />
+      </p>
+      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🐾 Veta.lk</h3>
+      <p>A veterinary marketplace platform designed for Sri Lanka, connecting pet owners with vets and services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Marketplace-22c55e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20App-f97316?style=flat-square" />
+      </p>
+      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
+    </td>
+  </tr>
+</table>
+
+> 💡 Tip: replace each `View Repo` link with the direct repo URL, and add a live demo link if you have one.
 
 <br/>
 
