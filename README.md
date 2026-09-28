@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+clean+%26+responsive+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+Spring+Boot+%F0%9F%92%BB;Turning+ideas+into+polished+interfaces+%E2%9C%A8" alt="Typing SVG" />
+font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+clean+%26+responsive+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+Spring+Boot+%F0%9F%92%BB;Turning+ideas+into+polished+interfaces+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -64,18 +64,30 @@ const govini = {
 
 <br/>
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements
+
+- 🥇 **HackerRank Certified** Frontend Developer (React)
+- ⚡ Participated in **IEEE** and university **hackathons**
+- 🧱 Built multiple academic and personal **full-stack** projects
+
+<br/>
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=govini2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govini2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=govini2003&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
 
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=govini2003&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
 
 </div>
 
