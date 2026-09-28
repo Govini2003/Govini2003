@@ -66,45 +66,6 @@ const govini = {
 
 <br/>
 
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧮 Cool Cal</h3>
-      <p>A multifunctional calculator web app with unit converters and physics &amp; mathematics tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💧 AquaMart</h3>
-      <p>Group project supporting water distribution and donations for water-scarce communities.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full--Stack-7c3aed?style=flat-square" />
-        <img src="https://img.shields.io/badge/Team%20Project-0ea5e9?style=flat-square" />
-      </p>
-      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🐾 Veta.lk</h3>
-      <p>A veterinary marketplace platform designed for Sri Lanka, connecting pet owners with vets and services.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Marketplace-22c55e?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web%20App-f97316?style=flat-square" />
-      </p>
-      <a href="https://github.com/govini2003"><b>View Repo →</b></a>
-    </td>
-  </tr>
-</table>
-
-> 💡 Tip: replace each `View Repo` link with the direct repo URL, and add a live demo link if you have one.
-
-<br/>
-
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements
 
