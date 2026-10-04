@@ -1,54 +1,32 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-  <h1>Hi, I'm Govini 👋</h1>
-  <p><b>Software Engineering Undergraduate</b> • <i>IIT (University of Westminster)</i></p>
+  <h1>Hi, I'm Govini Rajapakse 👋</h1>
+  <p><b>Final Year Software Engineering Undergraduate @ IIT (University of Westminster)</b></p>
 
-  <a href="https://linkedin.com/in/govini-rajapakse">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer+%E2%9C%A8;Ex-Software+Engineering+Intern+%40+Alphageekx+%F0%9F%92%BB;Building+clean%2C+scalable+%26+responsive+web+apps+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Frontend+Developer+%E2%9C%A8;Ex-Software+Engineering+Intern+%40+Alphageekx+%F0%9F%92%BB;Building+clean%2C+scalable+%26+responsive+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/govini2003">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/govini-rajapakse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/govini2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
-
-<!-- ===================== ABOUT ===================== -->
-### 📌 About
-
-- 🎓 Software Engineering Undergraduate at **IIT (University of Westminster)**
-- 💼 Software Engineering Intern at **Alphageekx**
-- ⚡ Focused on **Frontend Engineering**, **Full-Stack Development**, and **UI/UX**
-- 🛠️ Currently building clean, performant web applications
+<br/>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-### 🛠️ Tech Stack
+### 💡 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,java,spring,python,git,github,docker,figma&theme=dark" />
-</p>
-
----
-
-<!-- ===================== STATS ===================== -->
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govini2003&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govini2003&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
-
-<!-- ===================== CONTACT ===================== -->
-<div align="center">
-  <p><i>Open to internships, collaborations, and discussions.</i></p>
-  <a href="https://linkedin.com/in/govini-rajapakse"><b>Connect on LinkedIn →</b></a>
-</div>
+```javascript
+const govini = {
+  education: "Final Year B.Sc. (Hons) Software Engineering",
+  university: "Informatics Institute of Technology (University of Westminster)",
+  experience: "Former Software Engineering Intern @ Alphageekx",
+  coreFocus: ["Frontend Architecture", "Full-Stack Web Development", "UI/UX Design"],
+  techStack: ["React", "TypeScript", "Node.js", "Spring Boot"],
+  aspiration: "Building intuitive digital products with clean, maintainable code ⚡"
+};
